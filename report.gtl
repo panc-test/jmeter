@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1600614954592,115,新建主题-表单格式,200,OK,线程组001-主题 1-1,text,true,,461,349,1,1,http://49.233.108.117:3000/api/v1/topics,112,0,68
+1600615304250,105,主题首页,200,OK,线程组001-主题 1-1,text,true,,739,177,1,1,http://49.233.108.117:3000/api/v1/topics?page=1&tab=share&limit=1&mdrender=false,103,0,57
+1600615304409,35,主题详情,200,OK,线程组001-主题 1-1,text,true,,769,176,1,1,http://49.233.108.117:3000/api/v1/topic/5f67735a95933d295b656053?mdrender=false,35,0,0
+1600615304445,38,新建主题-表单格式,200,OK,线程组001-主题 1-1,text,true,,461,349,1,1,http://49.233.108.117:3000/api/v1/topics,38,0,0
+1600615304487,43,新建主题-json格式,200,OK,线程组001-主题 1-1,text,true,,461,330,1,1,http://49.233.108.117:3000/api/v1/topics,43,0,0
+1600615304540,1,调试取样器,200,OK,线程组001-主题 1-1,text,true,,469,0,1,1,null,0,0,0
